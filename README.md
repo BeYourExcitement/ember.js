@@ -30,7 +30,7 @@ Ember just works out of the box. It empowers you to make far less setup and arch
  
 Programming conventions exist for a reason. That is why, by design, Ember prioritizes conventions for easy code maintenance, debugging, testing, organization, and simply writing less code. A key element that increases this productivity is the Ember CLI (Command Line Interface). It is the centralized entry point to manage the functionality of Ember.
 
-Ember is future-friendly for development. Use Ember if you want your app to have stability without stagnation. With a dedicated core team that is committed long term, Ember stays on top of the latest trends without breaking applications, due to their multi-tiered release process. The consistently growing community has also established and maintained a large add-on ecosystem. 
+Ember is future-friendly towards development by maintaing their releases in a way that don't break your app. Use Ember if you want your app to have stability without stagnation. With a dedicated core team that is committed long term, Ember stays on top of the latest trends without breaking applications, due to their multi-tiered release process. The consistently growing community has also established and maintained a large add-on ecosystem. 
 
 # Contribution
 
