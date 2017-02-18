@@ -24,6 +24,14 @@ Ember.js also provides access to the most advanced features of Javascript, HTML 
 - [Blog](http://emberjs.com/blog)
 - [Builds](http://emberjs.com/builds)
 
+###What to Use Ember for and When to Use It
+
+Ember just works out of the box. It empowers you to make far less setup and architectural decisions, which allow you to actually focus more time creating code for your application domain or business functionality. 
+ 
+Programming conventions exist for a reason. That is why, by design, Ember prioritizes conventions for easy code maintenance, debugging, testing, organization, and simply writing less code. A key element that increases this productivity is the Ember CLI (Command Line Interface). It is the centralized entry point to manage the functionality of Ember.
+
+Ember is future-friendly for development. Use Ember if you want your app to have stability without stagnation. With a dedicated core team that is committed long term, Ember stays on top of the latest trends without breaking applications, due to their multi-tiered release process. The consistently growing community has also established and maintained a large add-on ecosystem. 
+
 # Contribution
 
 See [CONTRIBUTING.md](https://github.com/emberjs/ember.js/blob/master/CONTRIBUTING.md)
